@@ -5,12 +5,12 @@
 - #### 📫 You can reach me At [orbeker7@gmail.com](orbeker7@gmail.com).
 - #### I love listening to music, Play video games & Code.
 
-## Languages and Tools:
+## ⚙ Languages and Tools:
 HTML, CSS, JavaScript, <br>
 React, Vue, Angular, Redux, Sass,<br>
 MongoDB, NodeJS, PostMan
 
-## Connect with me : 
+## 🤝 Connect with me : 
 [Linked In](https://www.linkedin.com/in/or-beker/)
 
 
